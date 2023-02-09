@@ -1,1 +1,5 @@
 # Sudoku-Solver
+
+This is a software program that can automatically solve Sudoku puzzles by using the Python programming language. The solver use Python libraries such as NumPy & Pandas to represent and manipulate the puzzle grid. Once the solver has solved the puzzle, it can display the solution to the user in a graphical or text-based format. This type of software can be useful for solving Sudoku puzzles quickly and efficiently, and can also serve as a tool for learning and studying sudoku.
+
+The solver is designed to work with standard 9x9 puzzles. The algorithms used by the solver can be optimized for speed and accuracy, and the solver can be configured to display different levels of detail about the solution process. Additionally, the solver can be integrated with other software, such as a puzzle generator or a puzzle database, to provide a complete Sudoku solving and puzzle-solving experience. The solver can also be designed to be user-friendly, with features such as an intuitive interface and the ability to input puzzles manually.
